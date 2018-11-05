@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 27352d3a4dfcd1849812441a162320d4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arno Dorian
+    100002: //RootNode
+    100004: Arno Dorian.001
+    100006: Arno Dorian.002
+    100008: Arno Dorian.003
+    100010: Assassin Arm_L
+    100012: Assassin Arm_L.001
+    100014: Assassin Arm_R
+    100016: Assassin Arm_R.001
+    100018: Assassin Belt
+    100020: Assassin Belt.001
+    100022: Assassin Boots_L
+    100024: Assassin Boots_L.001
+    100026: Assassin Boots_R
+    100028: Assassin Boots_R.001
+    100030: Assassin Glove_L
+    100032: Assassin Glove_L.001
+    100034: Assassin Glove_R
+    100036: Assassin Glove_R.001
+    100038: Assassin Hood
+    100040: Assassin Hood.001
+    100042: Assassin Pants
+    100044: Assassin Pants.001
+    100046: Assassin Robe
+    100048: Assassin Robe.001
+    100050: Assassin Sword
+    100052: Assassin Sword.001
+    100054: Assassin Tie
+    100056: Assassin Tie.001
+    100058: Camera
+    100060: Hidden Blade_R
+    100062: Hidden Blade_R.001
+    100064: Lamp
+    100066: Leather Vest
+    100068: Leather Vest.001
+    100070: Phantom Blade_L
+    100072: Phantom Blade_L.001
+    100074: Vest Coat
+    100076: Vest Coat.001
+    100078: White Shirt
+    100080: White Shirt.001
+    400000: Arno Dorian
+    400002: //RootNode
+    400004: Arno Dorian.001
+    400006: Arno Dorian.002
+    400008: Arno Dorian.003
+    400010: Assassin Arm_L
+    400012: Assassin Arm_L.001
+    400014: Assassin Arm_R
+    400016: Assassin Arm_R.001
+    400018: Assassin Belt
+    400020: Assassin Belt.001
+    400022: Assassin Boots_L
+    400024: Assassin Boots_L.001
+    400026: Assassin Boots_R
+    400028: Assassin Boots_R.001
+    400030: Assassin Glove_L
+    400032: Assassin Glove_L.001
+    400034: Assassin Glove_R
+    400036: Assassin Glove_R.001
+    400038: Assassin Hood
+    400040: Assassin Hood.001
+    400042: Assassin Pants
+    400044: Assassin Pants.001
+    400046: Assassin Robe
+    400048: Assassin Robe.001
+    400050: Assassin Sword
+    400052: Assassin Sword.001
+    400054: Assassin Tie
+    400056: Assassin Tie.001
+    400058: Camera
+    400060: Hidden Blade_R
+    400062: Hidden Blade_R.001
+    400064: Lamp
+    400066: Leather Vest
+    400068: Leather Vest.001
+    400070: Phantom Blade_L
+    400072: Phantom Blade_L.001
+    400074: Vest Coat
+    400076: Vest Coat.001
+    400078: White Shirt
+    400080: White Shirt.001
+    2000000: Camera
+    2100000: Arno Dorian
+    2100002: Assassin Blue
+    2100004: Assassin White
+    2100006: Assassin Leather
+    2100008: Assassin Red
+    2100010: Snow White
+    2100012: Yellow Skinny
+    2100014: White Fang
+    2100016: Gear Leather
+    2100018: Assassin Metal.001
+    2100020: Assassin Silver
+    2100022: Assassin Metal
+    2100024: Assassin Gold
+    2100026: Assassin Bronze
+    2300000: Arno Dorian
+    2300002: Arno Dorian.001
+    2300004: Arno Dorian.002
+    2300006: Arno Dorian.003
+    2300008: Assassin Arm_L
+    2300010: Assassin Arm_L.001
+    2300012: Assassin Arm_R
+    2300014: Assassin Arm_R.001
+    2300016: Assassin Belt
+    2300018: Assassin Belt.001
+    2300020: Assassin Boots_L
+    2300022: Assassin Boots_L.001
+    2300024: Assassin Boots_R
+    2300026: Assassin Boots_R.001
+    2300028: Assassin Glove_L
+    2300030: Assassin Glove_L.001
+    2300032: Assassin Glove_R
+    2300034: Assassin Glove_R.001
+    2300036: Assassin Hood
+    2300038: Assassin Hood.001
+    2300040: Assassin Pants
+    2300042: Assassin Pants.001
+    2300044: Assassin Robe
+    2300046: Assassin Robe.001
+    2300048: Assassin Sword
+    2300050: Assassin Sword.001
+    2300052: Assassin Tie
+    2300054: Assassin Tie.001
+    2300056: Hidden Blade_R
+    2300058: Hidden Blade_R.001
+    2300060: Leather Vest
+    2300062: Leather Vest.001
+    2300064: Phantom Blade_L
+    2300066: Phantom Blade_L.001
+    2300068: Vest Coat
+    2300070: Vest Coat.001
+    2300072: White Shirt
+    2300074: White Shirt.001
+    3300000: Arno Dorian
+    3300002: Arno Dorian.001
+    3300004: Arno Dorian.002
+    3300006: Arno Dorian.003
+    3300008: Assassin Arm_L
+    3300010: Assassin Arm_L.001
+    3300012: Assassin Arm_R
+    3300014: Assassin Arm_R.001
+    3300016: Assassin Belt
+    3300018: Assassin Belt.001
+    3300020: Assassin Boots_L
+    3300022: Assassin Boots_L.001
+    3300024: Assassin Boots_R
+    3300026: Assassin Boots_R.001
+    3300028: Assassin Glove_L
+    3300030: Assassin Glove_L.001
+    3300032: Assassin Glove_R
+    3300034: Assassin Glove_R.001
+    3300036: Assassin Hood
+    3300038: Assassin Hood.001
+    3300040: Assassin Pants
+    3300042: Assassin Pants.001
+    3300044: Assassin Robe
+    3300046: Assassin Robe.001
+    3300048: Assassin Sword
+    3300050: Assassin Sword.001
+    3300052: Assassin Tie
+    3300054: Assassin Tie.001
+    3300056: Hidden Blade_R
+    3300058: Hidden Blade_R.001
+    3300060: Leather Vest
+    3300062: Leather Vest.001
+    3300064: Phantom Blade_L
+    3300066: Phantom Blade_L.001
+    3300068: Vest Coat
+    3300070: Vest Coat.001
+    3300072: White Shirt
+    3300074: White Shirt.001
+    4300000: Arno Dorian.003
+    4300002: Arno Dorian.002
+    4300004: Arno Dorian.001
+    4300006: Assassin Hood.001
+    4300008: White Shirt.001
+    4300010: Leather Vest.001
+    4300012: Assassin Tie.001
+    4300014: Vest Coat.001
+    4300016: Assassin Pants.001
+    4300018: Assassin Boots_L.001
+    4300020: Assassin Boots_R.001
+    4300022: Assassin Belt.001
+    4300024: Assassin Robe.001
+    4300026: Assassin Arm_L.001
+    4300028: Assassin Arm_R.001
+    4300030: Assassin Glove_L.001
+    4300032: Assassin Glove_R.001
+    4300034: Phantom Blade_L.001
+    4300036: Hidden Blade_R.001
+    4300038: Assassin Sword.001
+    4300040: Assassin Sword
+    4300042: Hidden Blade_R
+    4300044: Phantom Blade_L
+    4300046: Assassin Glove_R
+    4300048: Assassin Glove_L
+    4300050: Assassin Arm_R
+    4300052: Assassin Arm_L
+    4300054: Assassin Robe
+    4300056: Assassin Belt
+    4300058: Assassin Boots_R
+    4300060: Assassin Boots_L
+    4300062: Assassin Pants
+    4300064: Vest Coat
+    4300066: Assassin Tie
+    4300068: Leather Vest
+    4300070: White Shirt
+    4300072: Assassin Hood
+    4300074: Arno Dorian
+    9500000: //RootNode
+    10800000: Lamp
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
